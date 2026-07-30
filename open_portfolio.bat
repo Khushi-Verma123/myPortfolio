@@ -1,0 +1,3 @@
+@echo off
+title Opening Khushi Verma Portfolio...
+start "" "d:\portfolio\index.html"
